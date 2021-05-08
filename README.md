@@ -1,6 +1,6 @@
 # Práctica 11 CIU
 
-Toma de contacto con arduino
+Toma de contacto con arduino.
  
 Programar el Arduino de manera que se genere una pulsación de frecuencia variable en el
 LED integrado en la placa. Deberá producirse una señal senoidal que definirá la envolvente,
