@@ -10,4 +10,4 @@ frecuencia mínima freqMin.
 
 # Implementación
 
-Un trabajo bastante sencillo simplemente tiene un contador cíclico entre 0 y 359, decidimos hacerlo así simplemente para complicar un poco más la práctica, así en el improbable caso de que el arduino se quede encendido el tiempo necesario para que haya overflow pues lo evitamos. Usamos el valor de este contador en una función senoidal y cuando obtenemos el resultado lo aplicamos al LED.
+Un trabajo bastante sencillo, simplemente tiene un contador cíclico entre 0 y 359, decidimos hacerlo así simplemente para complicar un poco más la práctica, así en el improbable caso de que el arduino se quede encendido el tiempo necesario para que haya overflow pues lo evitamos. Usamos el valor de este contador en una función senoidal y cuando obtenemos el resultado lo aplicamos al LED.
